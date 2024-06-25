@@ -1,0 +1,7 @@
+
+State Machine - |final_project|current_state
+Name current_state.receive_data current_state.init_lcd current_state.lcd_clock_en current_state.lcd_delay 
+current_state.lcd_delay 0 0 0 0 
+current_state.lcd_clock_en 0 0 1 1 
+current_state.init_lcd 0 1 0 1 
+current_state.receive_data 1 0 0 1 
